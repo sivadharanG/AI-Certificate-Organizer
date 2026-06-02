@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # AI Certificate Organizer
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
@@ -145,3 +143,11 @@ GitHub: https://github.com/sivadharanG
 ## Repository Link
 
 # https://github.com/sivadharanG/AI-Certificate-Organizer
+
+## dashboard
+
+![dashboard](screenshorts/ss/Screenshot_2-6-2026_123321_localhost.jpeg/dashboard.png)
+
+## skill analysis
+
+![skill analysis](screenshorts/ss/Screenshot_2-6-2026_124012_localhost.jpeg/skills-analysis.png)
