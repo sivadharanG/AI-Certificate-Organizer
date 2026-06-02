@@ -52,25 +52,22 @@ Managing multiple certificates and identifying acquired skills manually can be t
 
 Add screenshot here:
 
-```text
-screenshots/dashboard.png
-```
+![dashboard](screenshorts/ss/Screenshot_2-6-2026_123213_localhost.jpeg)
 
 ### Skill Analysis
 
 Add screenshot here:
 
-```text
-screenshots/skills-analysis.png
-```
+![skillanalysis](screenshorts/ss/Screenshot_2-6-2026_123942_localhost.jpeg)
+![skillanalysis](screenshorts/ss/Screenshot_2-6-2026_124012_localhost.jpeg)
 
 ### LinkedIn Caption Generator
 
 Add screenshot here:
 
-```text
-screenshots/linkedin-caption.png
-```
+![linkedIn caption generator](screenshorts/ss/Screenshot_2-6-2026_124024_localhost.jpeg)
+![linkedIn caption generator](screenshorts/ss/Screenshot_2-6-2026_124042_localhost.jpeg)
+![linkedIn caption generator](screenshorts/ss/Screenshot_2-6-2026_124055_localhost.jpeg)
 
 ## Installation
 
@@ -143,11 +140,3 @@ GitHub: https://github.com/sivadharanG
 ## Repository Link
 
 # https://github.com/sivadharanG/AI-Certificate-Organizer
-
-## dashboard
-
-![dashboard](screenshorts/ss/Screenshot_2-6-2026_123321_localhost.jpeg/dashboard.png)
-
-## skill analysis
-
-![skill analysis](screenshorts/ss/Screenshot_2-6-2026_124012_localhost.jpeg/skills-analysis.png)
